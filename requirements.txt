@@ -1,0 +1,8 @@
+pandas
+numpy==1.26.4
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost==1.7.6
+shap==0.44.1
